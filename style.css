@@ -1,0 +1,98 @@
+body{
+    margin:0px;
+    padding-top:800px; 
+    text-align:center;
+ }
+ .profile{
+     border-radius:50%;
+ }
+ #welcome{
+     position:absolute;
+     bottom:0;
+     background:linear-gradient(#a3f8f8 0%,#a3f9fe 10%,#faa6f3 50%,#d090fb 100%);
+     display:table;
+     height:100%;
+     width:100%;
+ }
+ h1{
+     font-size:30px;
+     font-family:sans-serif;
+     font-weight:300;
+ }
+ #name{
+     font-size:50px;
+     font-family: 'Pacifico', cursive;
+ }
+ h2{
+     font-size:30px;
+     font-weight:300;
+     font-family:monospace;
+ }
+ #bio{
+     font-family:fantasy;
+     padding:50px;
+     font-size:28px ;
+ }
+ .Line{
+     height:6px;
+     background-color:rgb(0, 0, 0);
+     width:70px;
+     margin:8px auto;
+ }
+ .parallax-inner{
+     display:table-cell;
+     vertical-align:middle;
+ }
+ .menu{
+     list-style:none;
+     position:fixed;
+     top:0px;
+     margin: top 0px;
+     background-color:#fdfb78;
+     width:100%;
+     z-index:10;
+     cursor: pointer;
+     
+ }
+ .links
+ {
+   display:inline; 
+   padding-left:33px;
+   padding-right:25px;
+   font-family: 'Kalam', cursive;
+    color:rgb(255, 255, 255);
+   font-size:20px;
+ }
+ .links:hover{
+ text-decoration:underline;
+ font-size:25px;
+ }
+ a{
+     text-decoration:none;
+ }
+ #writings a{
+     text-decoration:underline !important;
+     color:#8b0af5 !important ;
+ }
+ #contact{
+     background:#fdf78d;
+ }
+ .contact_1 h3{
+ display:inline;
+ }
+.videocha{
+    font-family: 'Permanent Marker', cursive;
+    color:rgb(126, 7, 254);
+ }
+ #hi{
+font-family: 'Permanent Marker', cursive;
+color: rgb(243, 5, 251);
+ }
+ .para1{
+font-family: 'Patrick Hand', cursive;
+color:rgb(0, 145, 242);
+ }
+ #link11{
+    font-family: 'Gloria Hallelujah', cursive;
+    color:rgb(0, 255, 174);
+ }
